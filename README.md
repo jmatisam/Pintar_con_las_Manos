@@ -18,7 +18,7 @@ Esta información se usa para controlar el lápiz virtual, permitiendo al usuari
 
 ![key](../main/mano%20(1).jpg)
 
-## The documentation ;) Resumen del trabajo realizado, en la parte Backend y la frontend.
+## The documentation ;) Resumen del trabajo realizado.
 * [Documentación](https://www.canva.com/design/DAGNcs3qQ1c/BcWeUzfY-GYTvaGqNsdecQ/view?utm_content=DAGNcs3qQ1c&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
